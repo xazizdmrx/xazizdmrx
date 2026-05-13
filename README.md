@@ -1,39 +1,81 @@
-## Hi, I'm Aziz
+<div align="center">
+  <img src="assets/aziz.jpg" width="180" alt="Aziz Demir" style="border-radius: 50%;" />
 
-### Software, industrial IoT and modern engineering systems.
+  <h1>Hi, I'm Aziz Demir</h1>
+  <h3>Software • Industrial IoT • Automation • Legacy Modernization</h3>
 
-I focus on building practical systems that connect software, electronics and automation.  
-My interest is not limited to new technologies; I also care about improving existing systems, modernizing legacy workflows and making old tools work better with new ideas.
+  <p>
+    I build practical systems where software meets electronics, automation and real-world workflows.
+    <br />
+    I like modern technologies, but I also care about older systems that still keep businesses running.
+  </p>
 
-**Home - Work - Code - Sleep**  
-No Instagram. No Twitter. Yes Code.
-
----
-
-## About Me
-
-* I work on software, electronics, automation and connected systems
-* I am interested in industrial IoT, embedded control, sensor data and monitoring tools
-* I like building useful software for both modern platforms and older systems that still matter
-* I use PHP, Python, C++, C#, PowerShell and web technologies depending on the problem
-* I care about practical engineering, maintainable code and systems that can keep working over time
-
----
-
-## Currently Interested In
-
-* Industrial IoT and remote monitoring
-* Embedded systems and hardware-software integration
-* Automation tools for real-world workflows
-* Legacy system modernization
-* Offline AI and local-first utilities
-* Network, VPN and proxy management tools
+  <p>
+    <strong>Home - Work - Code - Sleep</strong>
+    <br />
+    No Instagram. No Twitter. Yes Code.
+  </p>
+</div>
 
 ---
 
-## Technologies and Tools
+<table>
+  <tr>
+    <td width="50%">
+      <h3>⚙️ Engineering Focus</h3>
+      <p>
+        Industrial IoT, embedded control, sensor data, automation panels, monitoring tools and hardware-software integration.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>💻 Software Focus</h3>
+      <p>
+        Modern web tools, desktop utilities, offline-first systems, network tools and legacy workflow modernization.
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p>
+## 🚀 About Me
+
+* 🔧 I work on connected systems that combine software, electronics and automation
+* 🏭 I am interested in industrial IoT, remote monitoring and embedded control
+* 🧠 I like turning old workflows into cleaner, faster and more usable software
+* 🧩 I build practical tools instead of only good-looking demos
+* 📈 I care about maintainable code, reliability and long-term usability
+
+---
+
+## 🧭 What I'm Exploring
+
+<table>
+  <tr>
+    <td>🏭 Industrial IoT</td>
+    <td>Remote monitoring, sensor data and connected devices</td>
+  </tr>
+  <tr>
+    <td>🧠 Local AI</td>
+    <td>Offline tools, local-first workflows and private AI usage</td>
+  </tr>
+  <tr>
+    <td>🧰 Automation</td>
+    <td>Scripts, desktop tools and workflow helpers</td>
+  </tr>
+  <tr>
+    <td>🕰️ Legacy Systems</td>
+    <td>Modernizing older software without ignoring what already works</td>
+  </tr>
+  <tr>
+    <td>🌐 Network Tools</td>
+    <td>VPN, proxy profiles and connection management utilities</td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Technologies and Tools
+
+<p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -47,33 +89,52 @@ No Instagram. No Twitter. Yes Code.
 
 ---
 
-## Some Projects
+## 🧪 Featured Work
 
-**deprem-sensoru**  
-A sensor-based monitoring project focused on filtering, signal processing and more reliable event detection.
-
-**discord_proxy**  
-A network utility that brings VPN and proxy profiles together in one manageable interface.
-
-**offline-ai**  
-A Windows-focused setup project for using AI tools locally and offline.
-
-**Sureli_Bilgisayar_Kontrol_Uygulamasi**  
-A Windows desktop application focused on controlled computer usage and practical time management.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌍 Sensor Monitoring</h3>
+      <p>
+        Filtering, signal processing and event detection ideas for sensor-based monitoring systems.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🔐 Network Utilities</h3>
+      <p>
+        VPN and proxy profile management tools focused on practical desktop usage.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤖 Offline AI</h3>
+      <p>
+        Windows-focused setup ideas for running AI tools locally and independently.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🖥️ Desktop Control</h3>
+      <p>
+        Windows utilities for controlled computer usage and simple system management.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=xazizdmrx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xazizdmrx&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
 
-## Contact
-
-You can check out my repositories here on GitHub.
-
-Last update: 2026
+<div align="center">
+  <h3>📫 Contact</h3>
+  <p>You can explore my repositories and follow my work here on GitHub.</p>
+  <p><strong>Last update:</strong> 2026</p>
+</div>
