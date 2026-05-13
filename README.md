@@ -1,73 +1,36 @@
-## Aziz Demir | xazizdmrx
+## Hi, I'm Aziz
 
-**Home - Work - Code - Sleep.**  
-Elektronik, yazılım ve otomasyon tarafında gerçek hayatta kullanılabilecek projeler geliştirmeye çalışırım.
+### I like building things with code, electronics and a bit of curiosity.
 
-Kod yazarken amacım sadece çalışan bir şey üretmek değil; anlaşılır, geliştirilebilir ve işe yarayan çözümler ortaya koymaktır.
+I usually spend my time trying small ideas, breaking things, fixing them again, and learning something new from each project.
 
-[GitHub](https://github.com/xazizdmrx)
-
----
-
-## Hakkımda
-
-* Elektronik ve yazılım projeleriyle ilgileniyorum
-* PHP, Python, C++, C# ve Arduino tarafında çalışmalar yapıyorum
-* Sensör sistemleri, masaüstü uygulamalar ve otomasyon araçları üzerine denemeler yapıyorum
-* Yeni teknolojileri deneyerek öğrenmeyi seviyorum
-* Sosyal medya yerine kod üretmeyi tercih ediyorum
-
-No Instagram.  
-No Twitter.  
-Yes Code.
+**Home - Work - Code - Sleep**  
+No Instagram. No Twitter. Yes Code.
 
 ---
 
-## Uzmanlık Alanları
+## About Me
 
-* **Gömülü Sistemler**
-  * Arduino tabanlı projeler
-  * Sensör okuma ve veri işleme
-  * Basit sinyal filtreleme denemeleri
-
-* **Yazılım Geliştirme**
-  * PHP ile web geliştirme
-  * Python ile otomasyon ve araç geliştirme
-  * C# ile Windows masaüstü uygulamaları
-
-* **Elektronik ve Otomasyon**
-  * Prototip devreler
-  * Kontrol sistemleri
-  * Pratik problem çözümleri
+* I enjoy working on software, electronics and automation projects
+* I like practical tools more than perfect-looking demos
+* I mostly experiment with PHP, Python, C++, C#, Arduino and Windows apps
+* I am interested in sensors, desktop utilities, offline tools and small useful systems
+* Still learning, still testing, still coding
 
 ---
 
-## Öne Çıkan Projeler
+## Currently Interested In
 
-**deprem-sensoru**  
-Arduino Nano ile sensör verilerini işleyerek basit darbelerden daha az etkilenen bir deprem sensörü denemesi.
-
-Amaç:
-
-* Sensör verilerini daha anlamlı hale getirmek
-* Kalman filtresi ve Fourier dönüşümü gibi yöntemleri denemek
-* Gömülü sistemlerde pratik veri işleme mantığını öğrenmek
-
-**Sureli_Bilgisayar_Kontrol_Uygulamasi**  
-Çocuk ve ergenler için ailelerin kullanabileceği Windows tabanlı süre kısıtlama uygulaması.
-
-Amaç:
-
-* Bilgisayar kullanım süresini kontrol edebilmek
-* Basit ve anlaşılır bir masaüstü deneyimi sunmak
-* Gerçek bir ihtiyaç için kullanılabilir bir araç geliştirmek
-
-**depo**  
-PHP tarafında geliştirme denemeleri ve web tabanlı çalışmalar.
+* Arduino and sensor-based projects
+* Python automation scripts
+* PHP web experiments
+* Windows desktop applications
+* Offline AI tools
+* Network and proxy utilities
 
 ---
 
-## Kullandığım Teknolojiler
+## Languages and Tools
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -75,11 +38,29 @@ PHP tarafında geliştirme denemeleri ve web tabanlı çalışmalar.
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
 </p>
 
 ---
 
-## GitHub İstatistikleri
+## Some Projects
+
+**deprem-sensoru**  
+An Arduino Nano earthquake sensor experiment using filtering and signal processing ideas.
+
+**discord_proxy**  
+A small desktop-style tool that brings VPN and proxy profiles together in one place.
+
+**offline-ai**  
+A Windows 11 focused setup project for using AI tools offline.
+
+**Sureli_Bilgisayar_Kontrol_Uygulamasi**  
+A Windows time control application for families.
+
+---
+
+## GitHub Stats
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=xazizdmrx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
@@ -88,8 +69,8 @@ PHP tarafında geliştirme denemeleri ve web tabanlı çalışmalar.
 
 ---
 
-## İletişim
+## Contact
 
-Projelerimi GitHub üzerinden takip edebilir veya repositorylerime göz atabilirsin.
+You can check out my repositories here on GitHub.
 
-Son güncelleme: 2026
+Last update: 2026
