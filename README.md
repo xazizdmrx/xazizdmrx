@@ -1,33 +1,73 @@
-<h1 align="center">Hi, I'm Aziz Demir</h1>
+## Aziz Demir | xazizdmrx
 
-<p align="center">
-  <strong>Home • Work • Code • Sleep</strong>
-</p>
+**Home - Work - Code - Sleep.**  
+Elektronik, yazılım ve otomasyon tarafında gerçek hayatta kullanılabilecek projeler geliştirmeye çalışırım.
 
-<p align="center">
-  I build projects around electronics, software, automation, and practical engineering.
-  <br />
-  I enjoy turning real-world problems into simple, working code.
-</p>
+Kod yazarken amacım sadece çalışan bir şey üretmek değil; anlaşılır, geliştirilebilir ve işe yarayan çözümler ortaya koymaktır.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xazizdmrx&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+[GitHub](https://github.com/xazizdmrx)
 
 ---
 
-### About Me
+## Hakkımda
 
-- Interested in electronics, embedded systems, desktop apps, and web development
-- Working with PHP, Python, C++, C#, and Arduino
-- Exploring sensors, automation tools, and practical software projects
-- Less social media, more code
+* Elektronik ve yazılım projeleriyle ilgileniyorum
+* PHP, Python, C++, C# ve Arduino tarafında çalışmalar yapıyorum
+* Sensör sistemleri, masaüstü uygulamalar ve otomasyon araçları üzerine denemeler yapıyorum
+* Yeni teknolojileri deneyerek öğrenmeyi seviyorum
+* Sosyal medya yerine kod üretmeyi tercih ediyorum
 
-> No Instagram. No Twitter. Yes Code.
+No Instagram.  
+No Twitter.  
+Yes Code.
 
 ---
 
-### Tech Stack
+## Uzmanlık Alanları
+
+* **Gömülü Sistemler**
+  * Arduino tabanlı projeler
+  * Sensör okuma ve veri işleme
+  * Basit sinyal filtreleme denemeleri
+
+* **Yazılım Geliştirme**
+  * PHP ile web geliştirme
+  * Python ile otomasyon ve araç geliştirme
+  * C# ile Windows masaüstü uygulamaları
+
+* **Elektronik ve Otomasyon**
+  * Prototip devreler
+  * Kontrol sistemleri
+  * Pratik problem çözümleri
+
+---
+
+## Öne Çıkan Projeler
+
+**deprem-sensoru**  
+Arduino Nano ile sensör verilerini işleyerek basit darbelerden daha az etkilenen bir deprem sensörü denemesi.
+
+Amaç:
+
+* Sensör verilerini daha anlamlı hale getirmek
+* Kalman filtresi ve Fourier dönüşümü gibi yöntemleri denemek
+* Gömülü sistemlerde pratik veri işleme mantığını öğrenmek
+
+**Sureli_Bilgisayar_Kontrol_Uygulamasi**  
+Çocuk ve ergenler için ailelerin kullanabileceği Windows tabanlı süre kısıtlama uygulaması.
+
+Amaç:
+
+* Bilgisayar kullanım süresini kontrol edebilmek
+* Basit ve anlaşılır bir masaüstü deneyimi sunmak
+* Gerçek bir ihtiyaç için kullanılabilir bir araç geliştirmek
+
+**depo**  
+PHP tarafında geliştirme denemeleri ve web tabanlı çalışmalar.
+
+---
+
+## Kullandığım Teknolojiler
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -39,40 +79,17 @@
 
 ---
 
-### Focus Areas
+## GitHub İstatistikleri
 
-- Embedded systems
-- Sensor-based projects
-- Desktop applications
-- Web development
-- Automation utilities
-- Experimental software projects
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xazizdmrx&show_icons=true&theme=tokyonight&hide_border=true" alt="Aziz's GitHub stats" />
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xazizdmrx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xazizdmrx&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
 
-### Featured Projects
+## İletişim
 
-- **deprem-sensoru**: Arduino Nano based earthquake sensor experiments using filtering and signal processing ideas
-- **Sureli_Bilgisayar_Kontrol_Uygulamasi**: A Windows time control app for families
-- **depo**: PHP development experiments and utilities
+Projelerimi GitHub üzerinden takip edebilir veya repositorylerime göz atabilirsin.
 
----
-
-### Contact
-
-You can follow my work and explore my repositories here on GitHub.
-
-<p align="center">
-  <a href="https://github.com/xazizdmrx">
-    <img src="https://img.shields.io/badge/GitHub-xazizdmrx-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
+Son güncelleme: 2026
