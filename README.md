@@ -1,8 +1,9 @@
 ## Hi, I'm Aziz
 
-### I like building things with code, electronics and a bit of curiosity.
+### Software, industrial IoT and modern engineering systems.
 
-I usually spend my time trying small ideas, breaking things, fixing them again, and learning something new from each project.
+I focus on building practical systems that connect software, electronics and automation.  
+My interest is not limited to new technologies; I also care about improving existing systems, modernizing legacy workflows and making old tools work better with new ideas.
 
 **Home - Work - Code - Sleep**  
 No Instagram. No Twitter. Yes Code.
@@ -11,35 +12,37 @@ No Instagram. No Twitter. Yes Code.
 
 ## About Me
 
-* I enjoy working on software, electronics and automation projects
-* I like practical tools more than perfect-looking demos
-* I mostly experiment with PHP, Python, C++, C#, Arduino and Windows apps
-* I am interested in sensors, desktop utilities, offline tools and small useful systems
-* Still learning, still testing, still coding
+* I work on software, electronics, automation and connected systems
+* I am interested in industrial IoT, embedded control, sensor data and monitoring tools
+* I like building useful software for both modern platforms and older systems that still matter
+* I use PHP, Python, C++, C#, PowerShell and web technologies depending on the problem
+* I care about practical engineering, maintainable code and systems that can keep working over time
 
 ---
 
 ## Currently Interested In
 
-* Arduino and sensor-based projects
-* Python automation scripts
-* PHP web experiments
-* Windows desktop applications
-* Offline AI tools
-* Network and proxy utilities
+* Industrial IoT and remote monitoring
+* Embedded systems and hardware-software integration
+* Automation tools for real-world workflows
+* Legacy system modernization
+* Offline AI and local-first utilities
+* Network, VPN and proxy management tools
 
 ---
 
-## Languages and Tools
+## Technologies and Tools
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-2B2D42?style=for-the-badge" alt="Embedded Systems" />
+  <img src="https://img.shields.io/badge/Industrial%20IoT-0A9396?style=for-the-badge" alt="Industrial IoT" />
+  <img src="https://img.shields.io/badge/Automation-005F73?style=for-the-badge" alt="Automation" />
 </p>
 
 ---
@@ -47,16 +50,16 @@ No Instagram. No Twitter. Yes Code.
 ## Some Projects
 
 **deprem-sensoru**  
-An Arduino Nano earthquake sensor experiment using filtering and signal processing ideas.
+A sensor-based monitoring project focused on filtering, signal processing and more reliable event detection.
 
 **discord_proxy**  
-A small desktop-style tool that brings VPN and proxy profiles together in one place.
+A network utility that brings VPN and proxy profiles together in one manageable interface.
 
 **offline-ai**  
-A Windows 11 focused setup project for using AI tools offline.
+A Windows-focused setup project for using AI tools locally and offline.
 
 **Sureli_Bilgisayar_Kontrol_Uygulamasi**  
-A Windows time control application for families.
+A Windows desktop application focused on controlled computer usage and practical time management.
 
 ---
 
